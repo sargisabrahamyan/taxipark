@@ -1,0 +1,4 @@
+rootProject.name = 'taxipark'
+include ':common', ':client'
+include 'server'
+
